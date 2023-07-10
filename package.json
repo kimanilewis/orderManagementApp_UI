@@ -1,0 +1,28 @@
+{
+  "name": "ordermanagementapp_ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimanilewis/orderManagementApp_UI.git"
+  },
+  "author": "lewis kimani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimanilewis/orderManagementApp_UI/issues"
+  },
+  "homepage": "https://github.com/kimanilewis/orderManagementApp_UI#readme"
+}
